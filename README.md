@@ -1,1 +1,1 @@
-Brif2 Interface statique
+Brif2 Interface statique et adaptable
