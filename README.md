@@ -1,1 +1,1 @@
-Brif2 Interface statique et adaptable
+Brief2 Interface statique et adaptable
